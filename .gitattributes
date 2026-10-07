@@ -1,0 +1,4 @@
+docs/index.html linguist-generated=true
+docs/*.json linguist-generated=true
+demo-output/** linguist-generated=true
+examples/synthetic.csv linguist-generated=true
