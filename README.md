@@ -7,6 +7,8 @@
 
 [Explore the interactive report](https://bowenzhu21.github.io/modelgate/) · [Architecture](docs/architecture.md) · [Tradeoffs & limitations](docs/limitations.md)
 
+[![ModelGate release explorer](docs/preview.jpg)](https://bowenzhu21.github.io/modelgate/)
+
 This is an independent ML platform engineering project by **Bowen Zhu**. The geometry task is an explicitly synthetic demonstration: surface point clouds for cubes, spheres, and cylinders. It makes no claim about real CAD assemblies, manufacturing defects, or production model quality.
 
 ## The result you can reproduce
